@@ -37,3 +37,13 @@ The result of XORing the memory and the key is:
 ```
 35.205.32.11
 ```
+
+## Leven 1:
+Disclaimer: This level was not solve by me.
+TODO: Explain every thing
+
+To solve this challenge enter those links in the right order:
+![First link](http://35.205.32.11/testProfilePng?u=aHR0cDovLzM1LjIwNS4zMi4xMS9sb2dpbi5waHA%2FdXNlcl9uYW1lPWFkbWluJTAwLnBuZw%3D%3D)
+![Second link](http://35.205.32.11/testProfilePng?u=aHR0cDovLzM1LjIwNS4zMi4xMS9hZG1pbmlzdHJhdGlvbiUwMC5wbmc%3D)
+![Third link](http://35.205.32.11/profilePics/administration)
+![Final link](http://35.205.32.11/ch1_success)
